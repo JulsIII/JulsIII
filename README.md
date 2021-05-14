@@ -1,16 +1,15 @@
-### Hi there 👋
+### Greetings! 👋
 
-<!--
-**JulsIII/JulsIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer and Production Designer/Artist
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Improving my coding skills. 
+- 🌱 I’m currently learning Full Stack Web Development.
+- 👯 I’m looking to collaborate on indie projects.
+- 🤔 I’m looking for help with Java tips!
+- 💬 Ask me about that thing I sent you.
+- 📫 How to reach me: https://www.linkedin.com/in/rjgiii/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Statistics
+![My Stats](https://github-readme-stats.vercel.app/api?username=JulsIII&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+
 -->
