@@ -6,7 +6,7 @@ Developer and Production Designer/Artist
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate on indie projects.
 - 🤔 I’m looking for help with Java tips!
-- 💬 Ask me about that thing I sent you.
+- 💬 Ask me about my YouTubes: [YouTube Channel](https://www.youtube.com/channel/UCQqlcSe7ZIpIlUyHHwxHihg)
 - 📫 How to reach me: https://www.linkedin.com/in/rjgiii/
 
 ## Statistics
