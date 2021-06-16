@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-Developer and Production Designer/Artist
+Developer | Software Engineer
 
 - 🔭 I’m currently working on Improving my coding skills. 
 - 🌱 I’m currently learning Full Stack Web Development.
