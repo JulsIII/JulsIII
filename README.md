@@ -2,10 +2,10 @@
 
 Developer | Software Engineer
 
-- 🔭 I’m currently working on Improving my coding skills. 
-- 🌱 I’m currently learning Full Stack Web Development.
-- 👯 I’m looking to collaborate on indie projects.
-- 🤔 I’m looking for help with Java tips!
+- 🔭 I’m currently working at CashApp (using a different git). 
+- 🌱 I’m leveling up my Full Stack Web Development.
+- 👯 Sometimes will collaborate on indie projects.
+- 🤔 I’m looking for networking connections!
 - 💬 Ask me about my YouTubes: [YouTube Channel](https://www.youtube.com/channel/UCQqlcSe7ZIpIlUyHHwxHihg)
 - 📫 How to reach me: https://www.linkedin.com/in/rjgiii/
 
