@@ -2,7 +2,7 @@
 
 Developer | Software Engineer
 
-- 🔭 I’m currently working at CashApp (using a different git). 
+- 🔭 I’m currently looking for work! I was recently working at CashApp and using a different git- so none of the last years activity is on here. Please be kind. 
 - 🌱 I’m leveling up my Full Stack Web Development.
 - 👯 Sometimes will collaborate on indie projects.
 - 🤔 I’m looking for networking connections!
