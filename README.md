@@ -1,6 +1,7 @@
 ### Greetings! 👋
 
 Developer | Software Engineer
+
 Goto my website - www.rjgiii.com
 - 🔭 I’m currently looking for work! Please be kind. 
 - 🌱 I’m leveling up my Full Stack Web Development.
