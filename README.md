@@ -3,7 +3,7 @@
 Developer | Software Engineer
 
 Goto my website - www.rjgiii.com
-- 🔭 I’m currently looking for work! Please be kind. 
+- 🔭 My last jobs were under security clearance, private, cannot be shown, and ARE NOT part of this github! Please be kind when considering me for roles! 
 - 🌱 I’m leveling up my Full Stack Web Development.
 - 👯 Sometimes will collaborate on indie projects.
 - 🤔 I’m looking for networking connections!
